@@ -1,0 +1,2 @@
+Prefix plugins/WindowBED/example/
+Plugin WindowBED inputfile parameters.txt outputfile window.txt
